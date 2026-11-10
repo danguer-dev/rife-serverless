@@ -1,6 +1,4 @@
 runpod>=1.7.0
-torch
-torchvision
+numpy<2.0.0
 opencv-python-headless
-numpy
 requests
